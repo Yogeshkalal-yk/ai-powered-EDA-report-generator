@@ -8,4 +8,4 @@ openpyxl
 python-dotenv
 google-generativeai
 google-genai
-
+matplotlib
