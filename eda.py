@@ -1,6 +1,3 @@
-#store all eda models here that we have exploratory data analysis models that we can use to generate the report
-# all function here *
-
 """
 eda.py
 --------------------------------------------------------

@@ -1,5 +1,3 @@
-# this file is for storing the configuration data that we can changing in some time 
-
 """
 Project Configuration File
 --------------------------
@@ -27,6 +25,11 @@ GEMINI_MODEL = "gemini-3.5-flash"
 
 
 GEMINI_API_KEY = ""
+
+
+
+
+
 
 
 

@@ -1,5 +1,3 @@
-# driver code for streamlit app running the full code
-
 import streamlit as st
 import pandas as pd
 
